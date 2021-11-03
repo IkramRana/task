@@ -50,7 +50,7 @@ app.options('*', cors());
 app.use('/api', appRoutes);
 
 app.get('/*', function (req, res) {
-  return res.status(500).json({ message: 'Invalid path' });
+  // return res.status(500).json({ message: 'Invalid path' });
   res.sendFile(path.join(__dirname + '/build/index.html'));
 });
 
