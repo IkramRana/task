@@ -8,7 +8,7 @@ var cors = require('cors');
 require('dotenv').config();
 var appRoutes = require('./src/routes/app.route');
 
-mongoose.connect('mongodb://localhost:27017/ze_note_it', {
+mongoose.connect('mongodb+srv://task:task123@cluster0.0lukd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   //useCreateIndex: true,
   useUnifiedTopology: true,
