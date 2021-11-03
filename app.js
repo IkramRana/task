@@ -51,7 +51,7 @@ app.use('/api', appRoutes);
 
 app.get('/*', function (req, res) {
   // return res.status(500).json({ message: 'Invalid path' });
-  res.sendFile(path.join(__dirname + '/build/index.html'));
+  res.sendFile(path.join(__dirname + '/client/build/index.html'));
 });
 
 if(process.env.NODE_ENV == "production"){
