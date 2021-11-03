@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01318487.chunk.css",
+    "main.js": "/static/js/main.1d37583a.chunk.js",
+    "main.js.map": "/static/js/main.1d37583a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d7c100ed.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d7c100ed.js.map",
+    "static/css/2.15c3be34.chunk.css": "/static/css/2.15c3be34.chunk.css",
+    "static/js/2.1bb16a02.chunk.js": "/static/js/2.1bb16a02.chunk.js",
+    "static/js/2.1bb16a02.chunk.js.map": "/static/js/2.1bb16a02.chunk.js.map",
+    "static/js/3.5888ab05.chunk.js": "/static/js/3.5888ab05.chunk.js",
+    "static/js/3.5888ab05.chunk.js.map": "/static/js/3.5888ab05.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.15c3be34.chunk.css.map": "/static/css/2.15c3be34.chunk.css.map",
+    "static/css/main.01318487.chunk.css.map": "/static/css/main.01318487.chunk.css.map",
+    "static/js/2.1bb16a02.chunk.js.LICENSE.txt": "/static/js/2.1bb16a02.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/Rockness.e8d2c4cb.otf",
+    "static/media/Lock_Icon.svg": "/static/media/Lock_Icon.de42b6c4.svg",
+    "static/media/Logout_Inactive.svg": "/static/media/Logout_Inactive.3dc389ad.svg",
+    "static/media/My_Missions_Active.svg": "/static/media/My_Missions_Active.5419d3dc.svg",
+    "static/media/My_Thoughts_Inactive.svg": "/static/media/My_Thoughts_Inactive.1572c334.svg",
+    "static/media/User_Icon.svg": "/static/media/User_Icon.b2e59ad3.svg",
+    "static/media/addQuote.svg": "/static/media/addQuote.140d39f8.svg",
+    "static/media/add_tasks.svg": "/static/media/add_tasks.940a4812.svg",
+    "static/media/au.png": "/static/media/au.53a047d9.png",
+    "static/media/delete_task.svg": "/static/media/delete_task.26544430.svg",
+    "static/media/edit_task.svg": "/static/media/edit_task.24d198ed.svg",
+    "static/media/menu_dots.svg": "/static/media/menu_dots.976e3123.svg",
+    "static/media/notifications.svg": "/static/media/notifications.e2bd0314.svg",
+    "static/media/pakistan.png": "/static/media/pakistan.a54f4ce6.png",
+    "static/media/settings_active.svg": "/static/media/settings_active.375330d0.svg",
+    "static/media/us.png": "/static/media/us.d8f6c9f0.png",
+    "static/media/ze_note_it.svg": "/static/media/ze_note_it.5022362e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7c100ed.js",
+    "static/css/2.15c3be34.chunk.css",
+    "static/js/2.1bb16a02.chunk.js",
+    "static/css/main.01318487.chunk.css",
+    "static/js/main.1d37583a.chunk.js"
+  ]
+}
